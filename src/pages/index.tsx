@@ -1,6 +1,4 @@
 // pages/index.tsx
-
-// Importamos la librería React desde 'react' para poder utilizarla en nuestro componente
 import React from 'react';
 
 // Importamos el componente MyButton que hemos creado en el archivo '../components/MyButton'
